@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World I'm Agung Kurniawan👋
+
+![agung](img/gambar1.jpg)
 
 <!--
 **agungk-19/agungk-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on **@tumbuhskill**
+
+🌱 I’m currently learning **Laravel** Framework
+
+
+![morning](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNwcjZtNTFwdDF3Mndlb2IwcHR1cDk1ZDE5Y2szdnB4NDg3b2tkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3p4Hz9b7QZmR2C8HH/giphy.gif)
