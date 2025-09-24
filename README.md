@@ -1,6 +1,6 @@
 ## Hello World I'm Agung Kurniawan👋
 
-![agung](img/gambar1.jpg)
+![agungk](img/git.jpg)
 
 <!--
 **agungk-19/agungk-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 🔭 I’m currently working on **@tumbuhskill**
 🌱 I’m currently learning **Laravel** Framework
